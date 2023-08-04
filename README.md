@@ -1,6 +1,4 @@
 # VideoGazingApp
 
-### Small Learning Project Api And Database Room...
-### How to Make connection between Them and Putting data in database without duplication
-
-![AppDemo](https://drive.google.com/file/d/1KQB4oRw7PNBxH32XgI6SxB7atVKCjMal/view?usp=sharing)
+#### Small Learning Project Api And Database Room...
+#### How to Make connections between Them and Put data in the database without duplication
